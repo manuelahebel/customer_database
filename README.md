@@ -1,4 +1,6 @@
 # CRM_sports-company
 Setup of a CRM database for sports company
 
-Group trial project
+Group project over the course of 3 days
+
+Author names have been removed for privacy purposes according to the German GDRP.
